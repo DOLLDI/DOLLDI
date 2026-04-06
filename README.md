@@ -11,4 +11,4 @@ Python-разработчик, специализируюсь на Telegram-бо
 - Автоматизация процессов
 
 ## 📫 Контакты
-- Telegram: [@EchoesOfTheEternity](https://t.me/EchoesOfTheEternity)
+- Telegram: [@rhipi](https://t.me/rhipi)
