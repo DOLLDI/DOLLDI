@@ -5,7 +5,7 @@ Python-разработчик, специализируюсь на Telegram-бо
 - [Telegram Shop Bot](https://github.com/DOLLDI/telegram-shop-bot) — бот-каталог товаров
 - [Telegram Questions Bot](https://github.com/DOLLDI/tg-night-bot) — бот-случайные вопросы
 - [Telegram Anket Bot](https://github.com/DOLLDI/Anket-Bot) — бот-анкета с SQL
-- [Telegram SmartBooking Bot ](https://github.com/DOLLDI/SmartBooking-Telegram-Bot) — бот-анкета с SQL,YandexGPT Api и тд.
+- [Telegram SmartBooking Bot ](https://github.com/DOLLDI/SmartBooking-Telegram-Bot) — бизнес-бот для работы с мастерами и клиентами с SQL,YandexGPT Api и тд.
 
 ## 💼 Чем занимаюсь
 - Разработка Telegram-ботов (aiogram, Telethon)
