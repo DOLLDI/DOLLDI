@@ -9,7 +9,19 @@ Python-разработчик, специализируюсь на Telegram-бо
 
 ## 💼 Чем занимаюсь
 - Разработка Telegram-ботов (aiogram, Telethon)
+- Проектирование архитектуры ботов
+- Работа с базами данных (SQLite, PostgreSQL)
+- Интеграция API и AI (GPT-модели)
 - Автоматизация процессов
+
+## 🧠 Навыки
+
+- Python
+- aiogram / Telethon
+- SQL (SQLite, PostgreSQL)
+- REST API
+- Работа с нейросетями (Yandex GPT и аналоги)
+- Async programming
 
 ## 📫 Контакты
 - Telegram: [@rhipi](https://t.me/rhipi)
