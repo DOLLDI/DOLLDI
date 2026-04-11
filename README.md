@@ -1,27 +1,27 @@
-# 👋 Привет, я Сергей
-Python-разработчик, специализируюсь на Telegram-ботах и скриптах автоматизации.
+# 👋 Привет, я Сергей  
+Python-разработчик, специализируюсь на Telegram-ботах, автоматизации и backend-сервисах.
 
 ## 🚀 Мои проекты
-- [Telegram Shop Bot](https://github.com/DOLLDI/telegram-shop-bot) — бот-каталог товаров
-- [Telegram Questions Bot](https://github.com/DOLLDI/tg-night-bot) — бот-случайные вопросы
-- [Telegram Anket Bot](https://github.com/DOLLDI/Anket-Bot) — бот-анкета с SQL
-- [Telegram SmartBooking Bot ](https://github.com/DOLLDI/SmartBooking-Telegram-Bot) — бизнес-бот для работы с мастерами и клиентами с SQL,YandexGPT Api и тд.
+- [WB Parser](https://github.com/DOLLDI/WB-Tracker-Bot) — Telegram-бот для мониторинга товаров Wildberries: парсинг, кеширование данных и история изменения цен  
+- [SmartBooking Telegram Bot](https://github.com/DOLLDI/SmartBooking-Telegram-Bot) — система онлайн-записи с ролями пользователей, SQL-базой и интеграцией YandexGPT API  
+- [Telegram Anket Bot](https://github.com/DOLLDI/Anket-Bot) — бот для сбора анкет и структурированного хранения данных в базе SQL  
+- [Telegram Shop Bot](https://github.com/DOLLDI/telegram-shop-bot) — бот-каталог товаров с базовой логикой управления  
+- [Telegram Questions Bot](https://github.com/DOLLDI/tg-night-bot) — бот для генерации случайных вопросов и взаимодействия в чатах  
 
 ## 💼 Чем занимаюсь
-- Разработка Telegram-ботов (aiogram, Telethon)
-- Проектирование архитектуры ботов
-- Работа с базами данных (SQLite, PostgreSQL)
-- Интеграция API и AI (GPT-модели)
-- Автоматизация процессов
+- Разработка Telegram-ботов (aiogram, Telethon)  
+- Проектирование архитектуры backend-систем  
+- Работа с базами данных (SQLite, PostgreSQL)  
+- Интеграция сторонних API и AI-сервисов  
+- Автоматизация процессов и web scraping  
 
 ## 🧠 Навыки
-
-- Python
-- aiogram / Telethon
-- SQL (SQLite, PostgreSQL)
-- REST API
-- Работа с нейросетями (Yandex GPT и аналоги)
-- Async programming
+- Python (asyncio, backend logic)  
+- aiogram / Telethon  
+- SQL (SQLite, PostgreSQL)  
+- REST API  
+- Асинхронное программирование  
+- Интеграция AI 
 
 ## 📫 Контакты
 - Telegram: [@rhipi](https://t.me/rhipi)
