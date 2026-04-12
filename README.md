@@ -2,6 +2,7 @@
 Python-разработчик, специализируюсь на Telegram-ботах, автоматизации и backend-сервисах.
 
 ## 🚀 Мои проекты
+- [massage-booking-app](https://github.com/DOLLDI/massage-booking-app) — Telegram Mini App для автоматизации записи клиентов в студию массажа. Включает каталог услуг, форму записи и систему обработки заявок через Telegram-бота.
 - [WB Parser](https://github.com/DOLLDI/WB-Tracker-Bot) — Telegram-бот для мониторинга товаров Wildberries: парсинг, кеширование данных и история изменения цен  
 - [SmartBooking Telegram Bot](https://github.com/DOLLDI/SmartBooking-Telegram-Bot) — система онлайн-записи с ролями пользователей, SQL-базой и интеграцией YandexGPT API  
 - [Telegram Anket Bot](https://github.com/DOLLDI/Anket-Bot) — бот для сбора анкет и структурированного хранения данных в базе SQL  
