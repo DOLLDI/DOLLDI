@@ -18,11 +18,15 @@ Python-разработчик, специализируюсь на Telegram-бо
 
 ## 🧠 Навыки
 - Python (asyncio, backend logic)  
-- aiogram / Telethon  
+- JavaScript / Node.js  
+- aiogram / Telethon / Telegraf  
+- Telegram Mini Apps (Web App API)  
 - SQL (SQLite, PostgreSQL)  
+- HTML / CSS (адаптивная вёрстка)  
 - REST API  
 - Асинхронное программирование  
-- Интеграция AI 
+- Git, GitHub Pages  
+- Интеграция AI  
 
 ## 📫 Контакты
 - Telegram: [@rhipi](https://t.me/rhipi)
