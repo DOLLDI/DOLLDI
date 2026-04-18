@@ -1,5 +1,5 @@
 # 👋 Привет, я Сергей  
-Python-разработчик, специализируюсь на Telegram-ботах, автоматизации и backend-сервисах.
+Фулл-стек разработчик, специализируюсь на Telegram-ботах/MiniApps, сайтах, скриптах автоматизации и backend-сервисах.
 
 ## 🚀 Мои проекты
 - [massage-booking-app](https://github.com/DOLLDI/massage-booking-app) — Telegram Mini App для автоматизации записи клиентов в студию массажа. Включает каталог услуг, форму записи и систему обработки заявок через Telegram-бота
@@ -11,7 +11,9 @@ Python-разработчик, специализируюсь на Telegram-бо
 - [Telegram Questions Bot](https://github.com/DOLLDI/tg-night-bot) — бот для генерации случайных вопросов и взаимодействия в чатах  
 
 ## 💼 Чем занимаюсь
-- Разработка Telegram-ботов (aiogram, Telethon)  
+- Разработка Telegram-ботов (aiogram, Telethon)
+- Разработка Telegram MiniApps (JS, HTLM\CSS)
+- Разработка сайтов для бизнеса/личного использования (JS/Node.js/HTML/CSS)
 - Проектирование архитектуры backend-систем  
 - Работа с базами данных (SQLite, PostgreSQL)  
 - Интеграция сторонних API и AI-сервисов  
