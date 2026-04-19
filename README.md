@@ -2,6 +2,7 @@
 Фулл-стек разработчик, специализируюсь на Telegram-ботах/MiniApps, сайтах, скриптах автоматизации и backend-сервисах.
 
 ## 🚀 Мои проекты
+- [PC-buy-building-site](https://github.com/DOLLDI/PC-buy-building-site) — интернет-магазин ПК с конфигуратором и админ-панелью. Позволяет покупать готовые сборки, собирать ПК вручную с проверкой совместимости, оформлять заказы онлайн и управлять товарами через удобный интерфейс
 - [massage-booking-app](https://github.com/DOLLDI/massage-booking-app) — Telegram Mini App для автоматизации записи клиентов в студию массажа. Включает каталог услуг, форму записи и систему обработки заявок через Telegram-бота
 - [WB Parser](https://github.com/DOLLDI/WB-Tracker-Bot) — Telegram-бот для мониторинга товаров Wildberries: парсинг, кеширование данных и история изменения цен  
 - [SmartBooking Telegram Bot](https://github.com/DOLLDI/SmartBooking-Telegram-Bot) — система онлайн-записи с ролями пользователей, SQL-базой и интеграцией YandexGPT API  
