@@ -1,7 +1,12 @@
-# 👋 Привет, я Сергей  
-Фулл-стек разработчик, специализируюсь на Telegram-ботах/MiniApps, сайтах, скриптах автоматизации и backend-сервисах.
+# 👋 Привет, я Сергей
+
+Фулл-стек разработчик, создаю backend-системы, веб-приложения и автоматизацию для бизнеса.
+
+Работаю с API и внешними сервисами, базами данных, AI/LLM, Telegram/VK, парсингом и интеграциями. Разрабатываю проекты от архитектуры и backend-логики до frontend, админ-панели и развёртывания.
+
 
 ## 🚀 Мои проекты
+- [AI-Powered Marketplace Analytics Platform](https://github.com/DOLLDI/AI-Powered-Marketplace-Analytics-Platform) — полноценная SaaS-платформа для AI-анализа товаров Wildberries. Анализирует отзывы, рассчитывает риски, выявляет подозрительную активность, сравнивает цены с Ozon и Яндекс Маркетом и формирует итоговую рекомендацию. Включает Telegram/VK-ботов, подписки, платежи, реферальную систему, админ-панель, PostgreSQL и Docker.
 - [PC-buy-building-site](https://github.com/DOLLDI/PC-buy-building-site) — интернет-магазин ПК с конфигуратором и админ-панелью. Позволяет покупать готовые сборки, собирать ПК вручную с проверкой совместимости, оформлять заказы онлайн и управлять товарами через удобный интерфейс
 - [Lash-master-site](https://github.com/DOLLDI/Lash-master-site) — сайт-визитка для мастера по наращиванию ресниц с портфолио, отзывами, онлайн-записью и админ-панелью. Позволяет демонстрировать услуги, публиковать работы, собирать отзывы клиентов, принимать заявки и управлять контентом через удобный интерфейс
 - [massage-booking-app](https://github.com/DOLLDI/massage-booking-app) — Telegram Mini App для автоматизации записи клиентов в студию массажа. Включает каталог услуг, форму записи и систему обработки заявок через Telegram-бота
@@ -21,17 +26,33 @@
 - Интеграция сторонних API и AI-сервисов  
 - Автоматизация процессов и web scraping  
 
+
 ## 🧠 Навыки
-- Python (asyncio, backend logic)  
-- JavaScript / Node.js  
-- aiogram / Telethon / Telegraf  
-- Telegram Mini Apps (Web App API)  
-- SQL (SQLite, PostgreSQL)  
-- HTML / CSS (адаптивная вёрстка)  
-- REST API  
-- Асинхронное программирование  
-- Git, GitHub Pages  
-- Интеграция AI  
+- Python (asyncio, backend logic, архитектура приложений)
+- FastAPI
+- JavaScript / TypeScript / Node.js
+- React / Next.js
+- aiogram / Telethon / Pyrogram
+- Telegram Bot API / VK API
+- Telegram Mini Apps (Web App API)
+- REST API
+- API integrations
+- SQL (SQLite, PostgreSQL)
+- Асинхронное программирование
+- Парсинг и обработка данных
+- Интеграция AI / LLM (OpenAI, YandexGPT, ProxyAPI)
+- AI-powered automation
+- Чат-боты и бизнес-автоматизация
+- Платёжные интеграции (YooKassa, Robokassa)
+- Webhooks
+- Docker
+- Git / GitHub
+- HTML / CSS (адаптивная вёрстка)
+- Админ-панели
+- Системы онлайн-записи / бронирования
+- Кэширование и оптимизация запросов
+- Архитектура backend-систем
+- CRM / внешние сервисы и API
 
 ## 📫 Контакты
 - Telegram: [@rhipi](https://t.me/rhipi)
