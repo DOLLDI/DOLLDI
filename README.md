@@ -13,6 +13,7 @@ I work with APIs and external services, databases, AI/LLM, Telegram/VK, web scra
 - [WB Parser](https://github.com/DOLLDI/WB-Tracker-Bot) — a Telegram bot for monitoring Wildberries products: data parsing, caching, and price change history.
 - [SmartBooking Telegram Bot](https://github.com/DOLLDI/SmartBooking-Telegram-Bot) — an online booking system with user roles, an SQL database, and YandexGPT API integration.
 - [Clear Telegram Userbot](https://github.com/DOLLDI/Clear-Telegram-Userbot) — a userbot for bulk cleaning Telegram archives: automatically leaves channels, removes bots, groups, and deleted accounts while leaving private chats untouched.
+- [Telegram Questions Bot](https://github.com/DOLLDI/Telegram-AutoPost-Channel-Copy-Bot) — a bot for generating random questions and interacting in chats.
 - [Telegram Anket Bot](https://github.com/DOLLDI/Anket-Bot) — a bot for collecting questionnaires and storing structured data in an SQL database.
 - [Telegram Shop Bot](https://github.com/DOLLDI/telegram-shop-bot) — a product catalog bot with basic management functionality.
 - [Telegram Questions Bot](https://github.com/DOLLDI/tg-night-bot) — a bot for generating random questions and interacting in chats.
